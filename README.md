@@ -2,8 +2,8 @@
 You can store backups local or upload to Dropbox
 
 # Link on Dropbox uploader
-https://github.com/andreafabrizi/Dropbox-Uploader
-https://www.andreafabrizi.it/2016/01/01/Dropbox-Uploader/
+- https://github.com/andreafabrizi/Dropbox-Uploader
+- https://www.andreafabrizi.it/2016/01/01/Dropbox-Uploader/
 
 # Run script
 - change permisions 
